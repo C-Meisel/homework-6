@@ -12,7 +12,7 @@ H_an = 80e-6  # Anode thickness, m
 H_elyte = 25e-6 # Electrolyte separator thickness, m
 H_ca = 80e-6  # Cathode thickness, m
 
-eps_graphite = .65 # Volume fraction of graphite in anode
+eps_graphite = 0.65 # Volume fraction of graphite in anode
 eps_elyte_sep = 0.65 # Volume fraction of elyte in separator
 eps_LCO = 0.65 # Volukme fraction of LCO phase in cathode
 
